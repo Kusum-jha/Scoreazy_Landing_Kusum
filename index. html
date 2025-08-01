@@ -1,0 +1,58 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Confidence Building Microcourse for Grades 3–5 by Scoreazy" />
+  <title>Confidence Building | Scoreazy</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>Confidence Building Microcourse</h1>
+    <p>Empower your child with tools to build self-esteem and classroom confidence.</p>
+    <a href="#cta" class="btn">Enroll Now</a>
+  </header>
+
+  <section class="benefits">
+    <h2>What Your Child Will Learn</h2>
+    <ul>
+      <li>📢 Public Speaking Essentials</li>
+      <li>🤝 Building Peer Confidence</li>
+      <li>🧠 Growth Mindset Activities</li>
+      <li>🎯 Focus & Emotional Balance</li>
+    </ul>
+  </section>
+
+  <section class="testimonials">
+    <h2>What Parents Say</h2>
+    <blockquote>"My daughter is more confident than ever in class!" — Mrs. Shah</blockquote>
+    <blockquote>"This course helped my son overcome his fear of speaking." — Mr. Reddy</blockquote>
+  </section>
+
+  <section class="faq">
+    <h2>FAQs</h2>
+    <details>
+      <summary>Who is this for?</summary>
+      <p>Students in Grades 3–5 struggling with self-confidence.</p>
+    </details>
+    <details>
+      <summary>How long is the course?</summary>
+      <p>2 weeks, self-paced with guided sessions.</p>
+    </details>
+    <details>
+      <summary>Do I get a certificate?</summary>
+      <p>Yes, a completion certificate is awarded.</p>
+    </details>
+  </section>
+
+  <section id="cta" class="cta">
+    <h2>Ready to Boost Confidence?</h2>
+    <a href="#" class="btn">Book a Spot</a>
+  </section>
+
+  <footer>
+    <p>© Scoreazy Edutech Pvt Ltd | SCORING MADE EASY</p>
+  </footer>
+</body>
+</html>
